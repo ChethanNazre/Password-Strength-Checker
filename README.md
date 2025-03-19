@@ -45,5 +45,5 @@ cd Password-Strength-Checker
 
 This project is **open-source** and available under the **MIT License**.
 
-👨‍💻 **Developed by [Your Name](https://github.com/yourusername/)**
+👨‍💻 **Developed by Chethan Nazre S (https://github.com/ChethanNazre/)**
 
